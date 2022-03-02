@@ -13,7 +13,7 @@ http://c2n.one:80/live/4029340/4429220/283585.ts
 http://canaishd.servidor.tv:8080/caciano2/caciano2/63327
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroCanal HD" tvg-logo="https://logos.servidor.tv/agrocanal.png" group-title="ABERTOS",AgroCanal HD
 http://canaishd.servidor.tv:8080/caciano2/caciano2/63326
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="ALTIORA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1a84cc19a0726828478ab6bfd33ea08c.webp" group-title="ABERTOS",ALTIORA TV
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="ALTIORA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1a84cc19a0726828478ab6bfd33ea08c.webp" group-title="ABERTOS",ALTIORA TV
 http://c2n.one:80/live/4029340/4429220/409349.ts
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte1 4K" tvg-logo="http://painelgerenciador.com.br/icons/arte1.png" group-title="ABERTOS",Arte1 4K
 http://massud.homelinux.com:80/live/S7iVXsgVTtOWRFyf/5MAIbHTLNpCWpZlI/14559.ts

@@ -260,6 +260,12 @@ http://asd2.me:80/live/12juliana/juliana12/10055104.ts
 #EXTINF:-1 tvg-id="Tvcamara.br" tvg-logo="https://i.imgur.com/Cij9z59.png" group-title="APPINO IPTV PLAYER 14/06/2022", TV CAMARA SD
 http://asd2.me:80/live/12juliana/juliana12/9603.ts
 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV CIDADE VERDE" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="APPINO IPTV PLAYER 14/06/2022",TV CIDADE VERDE
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w352090237.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV CIDADE VERDE HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="APPINO IPTV PLAYER 14/06/2022",TV CIDADE VERDE HD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1336238878.m3u8
+
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="APPINO IPTV PLAYER 14/06/2022", TV CULTURA FHD
 http://asd2.me:80/live/12juliana/juliana12/10027021.ts
 
@@ -2663,6 +2669,12 @@ http://hubby.fun:80/live/rebeca/rebeca123/12091.ts
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/multishow.png" group-title="NARUTO TV 07/04/2023", Multishow HD
 http://hubby.fun:80/live/rebeca/rebeca123/12092.ts
 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV CIDADE VERDE" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="NARUTO TV 07/04/2023",TV CIDADE VERDE
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w352090237.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV CIDADE VERDE HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="NARUTO TV 07/04/2023",TV CIDADE VERDE HD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1336238878.m3u8
+
 #EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/multishow.png" group-title="NARUTO TV 07/04/2023", Multishow HD [Alter]
 http://hubby.fun:80/live/rebeca/rebeca123/12093.ts
 
@@ -3412,3 +3424,12 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/10.ts
 
 #EXTINF:-1 tvg-id="VIVABR" tvg-logo="https://logos.servidor.tv/viva.jpg" group-title="P2MAIS 05/09/2022", Viva HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/2680.ts
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV CIDADE VERDE" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="P2MAIS 05/09/2022",TV CIDADE VERDE
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w352090237.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TV CIDADE VERDE HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="P2MAIS 05/09/2022",TV CIDADE VERDE HD
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1336238878.m3u8
+
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="SBT PI TV Cidade Verde HD" tvg-logo="https://logos.servidor.tv/sbt.png" group-title="P2MAIS 05/09/2022",SBT PI TV Cidade Verde HD
+http://canaishd.servidor.tv:8080/caciano2/caciano2/63191.ts

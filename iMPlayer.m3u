@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U url-tvg="http://m3u4u.com/epg/d5k2nvw22jhjk169y984"
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&AMP;E FHDR" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="APPINO IPTV PLAYER 14/06/2022",A&AMP;E FHDR
 http://asd2.me:80/live/12juliana/juliana12/10054283.ts
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHDR" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="APPINO IPTV PLAYER 14/06/2022",AMC FHDR
@@ -25,7 +25,7 @@ http://asd2.me:80/live/12juliana/juliana12/10055037.ts
 http://asd2.me:80/live/12juliana/juliana12/5825.ts
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="AR DIRECTV SPORTS" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",AR DIRECTV SPORTS
 http://asd2.me:80/live/12juliana/juliana12/10072383.ts
-#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="AR DIRECTV SPORTS 2" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",AR DIRECTV SPORTS 2
+#EXTINF:-1 tvg-id="Null" tvg-name="AR DIRECTV SPORTS 2" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",AR DIRECTV SPORTS 2
 http://asd2.me:80/live/12juliana/juliana12/10072384.ts
 #EXTINF:-1 tvg-id="FoxSports(English).ar" tvg-name="AR FOX SPORTS ARG" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",AR FOX SPORTS ARG
 http://asd2.me:80/live/12juliana/juliana12/10072385.ts
@@ -101,7 +101,7 @@ http://asd2.me:80/live/12juliana/juliana12/10072257.ts
 http://asd2.me:80/live/12juliana/juliana12/10072382.ts
 #EXTINF:-1 tvg-id="SportsnetOne4K(English).ca" tvg-name="CA SPORTSNET ONE" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",CA SPORTSNET ONE
 http://asd2.me:80/live/12juliana/juliana12/10072404.ts
-#EXTINF:-1 tvg-id="Null" tvg-name="CA TSN 1" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",CA TSN 1
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="CA TSN 1" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",CA TSN 1
 http://asd2.me:80/live/12juliana/juliana12/10072377.ts
 #EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="CA TSN 2" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",CA TSN 2
 http://asd2.me:80/live/12juliana/juliana12/10072378.ts
@@ -271,13 +271,13 @@ http://asd2.me:80/live/12juliana/juliana12/10049570.ts
 http://asd2.me:80/live/12juliana/juliana12/10072387.ts
 #EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES MOVISTAR F1" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",ES MOVISTAR F1
 http://asd2.me:80/live/12juliana/juliana12/10072388.ts
-#EXTINF:-1 tvg-id="Null" tvg-name="ES MOVISTAR FUTBOL" tvg-logo="https://i.imgur.com/9gTmjV8.png" group-title="APPINO IPTV PLAYER 14/06/2022",ES MOVISTAR FUTBOL
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="ES MOVISTAR FUTBOL" tvg-logo="https://i.imgur.com/9gTmjV8.png" group-title="APPINO IPTV PLAYER 14/06/2022",ES MOVISTAR FUTBOL
 http://asd2.me:80/live/12juliana/juliana12/10049568.ts
 #EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES MOVISTAR GOLF" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",ES MOVISTAR GOLF
 http://asd2.me:80/live/12juliana/juliana12/10072389.ts
 #EXTINF:-1 tvg-id="MovistarLigadeCampeones.es" tvg-name="ES MOVISTAR LIGA DE CAMPEONES" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",ES MOVISTAR LIGA DE CAMPEONES
 http://asd2.me:80/live/12juliana/juliana12/10072390.ts
-#EXTINF:-1 tvg-id="Null" tvg-name="ES MOVISTAR MOTO GP" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",ES MOVISTAR MOTO GP
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="ES MOVISTAR MOTO GP" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",ES MOVISTAR MOTO GP
 http://asd2.me:80/live/12juliana/juliana12/10072391.ts
 #EXTINF:-1 tvg-id="Espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="APPINO IPTV PLAYER 14/06/2022",ESPN 2 FHD
 http://asd2.me:80/live/12juliana/juliana12/6286.ts
@@ -415,15 +415,15 @@ http://asd2.me:80/live/12juliana/juliana12/10049566.ts
 http://asd2.me:80/live/12juliana/juliana12/10049565.ts
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR RMC SPORT 2" tvg-logo="https://i.imgur.com/DOaI5ee.png" group-title="APPINO IPTV PLAYER 14/06/2022",FR RMC SPORT 2
 http://asd2.me:80/live/12juliana/juliana12/10049564.ts
-#EXTINF:-1 tvg-id="EliteCOPANordeste.br" tvg-name="FURACAO TV" tvg-logo="https://i.imgur.com/VrykMfJ.png" group-title="APPINO IPTV PLAYER 14/06/2022",FURACAO TV
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FURACAO TV" tvg-logo="https://i.imgur.com/VrykMfJ.png" group-title="APPINO IPTV PLAYER 14/06/2022",FURACAO TV
 http://asd2.me:80/live/12juliana/juliana12/10054895.ts
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 1" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 1
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FUTEBOL 1" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 1
 http://asd2.me:80/live/12juliana/juliana12/10068968.ts
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 2" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 2
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FUTEBOL 2" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 2
 http://asd2.me:80/live/12juliana/juliana12/10068969.ts
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 3" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 3
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FUTEBOL 3" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 3
 http://asd2.me:80/live/12juliana/juliana12/10068970.ts
-#EXTINF:-1 tvg-id="Futebol.br" tvg-name="FUTEBOL 4" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 4
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="FUTEBOL 4" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",FUTEBOL 4
 http://asd2.me:80/live/12juliana/juliana12/10068971.ts
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA FHD" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="APPINO IPTV PLAYER 14/06/2022",GB BRASILIA FHD
 http://asd2.me:80/live/12juliana/juliana12/9598.ts
@@ -435,7 +435,7 @@ http://asd2.me:80/live/12juliana/juliana12/4893.ts
 http://asd2.me:80/live/12juliana/juliana12/10054790.ts
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="GB BRASILIA HD²" tvg-logo="https://i.imgur.com/m7ncYgM.png" group-title="APPINO IPTV PLAYER 14/06/2022",GB BRASILIA HD²
 http://asd2.me:80/live/12juliana/juliana12/6555.ts
-#EXTINF:-1 tvg-id="GloboEsporte.br" tvg-name="GB ESPORTE.COM" tvg-logo="https://i.imgur.com/FNKDHPO.png" group-title="APPINO IPTV PLAYER 14/06/2022",GB ESPORTE.COM
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="GB ESPORTE.COM" tvg-logo="https://i.imgur.com/FNKDHPO.png" group-title="APPINO IPTV PLAYER 14/06/2022",GB ESPORTE.COM
 http://asd2.me:80/live/12juliana/juliana12/10027028.ts
 #EXTINF:-1 tvg-id="GloboBeloHorizonte.br" tvg-name="GB MINAS FHD" tvg-logo="https://i.imgur.com/4dErsWw.png" group-title="APPINO IPTV PLAYER 14/06/2022",GB MINAS FHD
 http://asd2.me:80/live/12juliana/juliana12/4801.ts
@@ -603,19 +603,19 @@ http://asd2.me:80/live/12juliana/juliana12/10054629.ts
 http://asd2.me:80/live/12juliana/juliana12/11250.ts
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 01 HDh" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 01 HDh
 http://asd2.me:80/live/12juliana/juliana12/10073392.ts
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 1" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 1
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 1" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 1
 http://asd2.me:80/live/12juliana/juliana12/10068959.ts
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 1²" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 1²
 http://asd2.me:80/live/12juliana/juliana12/10074680.ts
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 2" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 2
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 2" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 2
 http://asd2.me:80/live/12juliana/juliana12/10068960.ts
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 3" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 3
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 3" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 3
 http://asd2.me:80/live/12juliana/juliana12/10068961.ts
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 4" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 4
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 4" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 4
 http://asd2.me:80/live/12juliana/juliana12/10068962.ts
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 5" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 5
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 5" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 5
 http://asd2.me:80/live/12juliana/juliana12/10068963.ts
-#EXTINF:-1 tvg-id="OnDemand.br" tvg-name="HBO MAX 6" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 6
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO MAX 6" tvg-logo="https://www.cricketwireless.com/uiassets/hbo-max-app.png" group-title="APPINO IPTV PLAYER 14/06/2022",HBO MAX 6
 http://asd2.me:80/live/12juliana/juliana12/10068964.ts
 #EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="ID - INVESTIGACAO DISCOVERY FHD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="APPINO IPTV PLAYER 14/06/2022",ID - INVESTIGACAO DISCOVERY FHD
 http://asd2.me:80/live/12juliana/juliana12/9623.ts
@@ -649,7 +649,7 @@ http://asd2.me:80/live/12juliana/juliana12/10069821.ts
 http://asd2.me:80/live/12juliana/juliana12/10069818.ts
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-name="JOVEN PAN NEWS HD" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",JOVEN PAN NEWS HD
 http://asd2.me:80/live/12juliana/juliana12/10069819.ts
-#EXTINF:-1 tvg-id="EliteLibertadores.br" tvg-name="LIBERTADORES FACEBOOK" tvg-logo="https://i.imgur.com/tGv3Q3b.png" group-title="APPINO IPTV PLAYER 14/06/2022",LIBERTADORES FACEBOOK
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="LIBERTADORES FACEBOOK" tvg-logo="https://i.imgur.com/tGv3Q3b.png" group-title="APPINO IPTV PLAYER 14/06/2022",LIBERTADORES FACEBOOK
 http://asd2.me:80/live/12juliana/juliana12/20216.ts
 #EXTINF:-1 tvg-id="MTV00s.br" tvg-name="MTV FHD" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="APPINO IPTV PLAYER 14/06/2022",MTV FHD
 http://asd2.me:80/live/12juliana/juliana12/5913.ts
@@ -1225,7 +1225,7 @@ http://asd2.me:80/live/12juliana/juliana12/10055090.ts
 http://asd2.me:80/live/12juliana/juliana12/9602.ts
 #EXTINF:-1 tvg-id="Tvsenado.br" tvg-name="TV SENADO SD*" tvg-logo="https://i.imgur.com/dKHM5oa.png" group-title="APPINO IPTV PLAYER 14/06/2022",TV SENADO SD*
 http://asd2.me:80/live/12juliana/juliana12/10055080.ts
-#EXTINF:-1 tvg-id="Null" tvg-name="TVG SPORTS" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",TVG SPORTS
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TVG SPORTS" tvg-logo="noimg.png" group-title="APPINO IPTV PLAYER 14/06/2022",TVG SPORTS
 http://asd2.me:80/live/12juliana/juliana12/10071997.ts
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="TV CULTURA FHD H265*" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="APPINO IPTV PLAYER 14/06/2022",TV CULTURA FHD H265*
 http://asd2.me:80/live/12juliana/juliana12/10054886.ts
@@ -1913,9 +1913,9 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/311.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/92902.ts
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD+" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="P2MAIS 05/09/2022",ESPN HD+
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/92903.ts
-#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="P2MAIS 05/09/2022",Estádio TNT Sports 1 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="P2MAIS 05/09/2022",Estádio TNT Sports 1 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102671.ts
-#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="P2MAIS 05/09/2022",Estádio TNT Sports 2 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="P2MAIS 05/09/2022",Estádio TNT Sports 2 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102670.ts
 #EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="Fox Sports 2 4K UHD" tvg-logo="https://logos.servidor.tv/foxsports2.jpg" group-title="P2MAIS 05/09/2022",Fox Sports 2 4K UHD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/56500.ts
@@ -1931,9 +1931,9 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/260.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/2707.ts
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="P2MAIS 05/09/2022",Globo Brasilia HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/291.ts
-#EXTINF:-1 tvg-id="Globo Esporte" tvg-name="Globo Esporte 1 HD" tvg-logo="https://logos.servidor.tv/2ff3aa515249f0dd3a11baa398f4ef0f.png" group-title="P2MAIS 05/09/2022",Globo Esporte 1 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Globo Esporte 1 HD" tvg-logo="https://logos.servidor.tv/2ff3aa515249f0dd3a11baa398f4ef0f.png" group-title="P2MAIS 05/09/2022",Globo Esporte 1 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102689.ts
-#EXTINF:-1 tvg-id="Globo Esporte" tvg-name="Globo Esporte 2 HD" tvg-logo="https://logos.servidor.tv/2ff3aa515249f0dd3a11baa398f4ef0f.png" group-title="P2MAIS 05/09/2022",Globo Esporte 2 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Globo Esporte 2 HD" tvg-logo="https://logos.servidor.tv/2ff3aa515249f0dd3a11baa398f4ef0f.png" group-title="P2MAIS 05/09/2022",Globo Esporte 2 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102688.ts
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="https://logos.servidor.tv/globonews.png" group-title="P2MAIS 05/09/2022",Globo News HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/1468.ts
@@ -1943,7 +1943,7 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/277.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/275.ts
 #EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Nordeste HD+" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="P2MAIS 05/09/2022",Globo Nordeste HD+
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/2714.ts
-#EXTINF:-1 tvg-id="globo.pt" tvg-name="Globo Portugal HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="P2MAIS 05/09/2022",Globo Portugal HD
+#EXTINF:-1 tvg-id="TVGlobo(src01).pt" tvg-name="Globo Portugal HD" tvg-logo="https://logos.servidor.tv/01edc35e19f626260422dc00e48e67cf.png" group-title="P2MAIS 05/09/2022",Globo Portugal HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/33247.ts
 #EXTINF:-1 tvg-id="GloboNordeste.br" tvg-name="Globo Recife HD" tvg-logo="https://logos.servidor.tv/globo.jpg" group-title="P2MAIS 05/09/2022",Globo Recife HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/53473.ts
@@ -1989,13 +1989,13 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/2953.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/2703.ts
 #EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT HD" tvg-logo="https://logos.servidor.tv/gnt.jpg" group-title="P2MAIS 05/09/2022",GNT HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/235.ts
-#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 1 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 1 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO Max 1 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 1 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102669.ts
-#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 2 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 2 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO Max 2 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 2 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102668.ts
-#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 3 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 3 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO Max 3 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 3 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102667.ts
-#EXTINF:-1 tvg-id="HBO Max" tvg-name="HBO Max 4 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 4 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="HBO Max 4 HD" tvg-logo="https://logos.servidor.tv/hbomax.png" group-title="P2MAIS 05/09/2022",HBO Max 4 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102666.ts
 #EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Investigacao Discovery HD" tvg-logo="https://logos.servidor.tv/investigacaodiscovery.jpg" group-title="P2MAIS 05/09/2022",Investigacao Discovery HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/1514.ts
@@ -2013,13 +2013,13 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/56503.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/1452.ts
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD+" tvg-logo="https://logos.servidor.tv/multishow.png" group-title="P2MAIS 05/09/2022",Multishow HD+
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/199.ts
-#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 1 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 1 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="OneFootball 1 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 1 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102660.ts
-#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 2 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 2 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="OneFootball 2 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 2 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102659.ts
-#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 3 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 3 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="OneFootball 3 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 3 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102658.ts
-#EXTINF:-1 tvg-id="OneFootball" tvg-name="OneFootball 4 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 4 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="OneFootball 4 HD" tvg-logo="https://logos.servidor.tv/13ec19213f7df05db0be8cb23378b4b2.png" group-title="P2MAIS 05/09/2022",OneFootball 4 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102657.ts
 #EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logos.servidor.tv/premiere.jpg" group-title="P2MAIS 05/09/2022",Premiere 2 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/1511.ts
@@ -2121,13 +2121,13 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/56504.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/1444.ts
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD+" tvg-logo="https://logos.servidor.tv/sportv.png" group-title="P2MAIS 05/09/2022",SporTV HD+
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/119.ts
-#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 1 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 1 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Star+ 1 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 1 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102656.ts
-#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 2 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 2 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Star+ 2 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 2 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102655.ts
-#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 3 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 3 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Star+ 3 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 3 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102654.ts
-#EXTINF:-1 tvg-id="STAR+" tvg-name="Star+ 4 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 4 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Star+ 4 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 4 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102653.ts
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="Star+ 5 HD" tvg-logo="https://logos.servidor.tv/3b33f9051e5a4ee85b61d51dee6c0fb1.png" group-title="P2MAIS 05/09/2022",Star+ 5 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102712.ts
@@ -2161,17 +2161,17 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/4473.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/4472.ts
 #EXTINF:-1 tvg-id="TVJUSTICA.br" tvg-name="TV Justiça HD" tvg-logo="https://logos.servidor.tv/tvjustica.jpg" group-title="P2MAIS 05/09/2022",TV Justiça HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/22512.ts
-#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 1 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 1 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TV NSports 1 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 1 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102652.ts
-#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 2 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 2 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TV NSports 2 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 2 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102651.ts
-#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 3 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 3 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TV NSports 3 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 3 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102650.ts
-#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 4 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 4 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TV NSports 4 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 4 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102649.ts
-#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 5 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 5 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TV NSports 5 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 5 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102648.ts
-#EXTINF:-1 tvg-id="TV NSports" tvg-name="TV NSports 6 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 6 HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TV NSports 6 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 6 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102647.ts
 #EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="TV NSports 7 HD" tvg-logo="https://logos.servidor.tv/b62d82c196ebecda2cacea88b17a5d3c.jpg" group-title="P2MAIS 05/09/2022",TV NSports 7 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/102708.ts
@@ -2181,17 +2181,17 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/22515.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/2680.ts
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD+" tvg-logo="https://logos.servidor.tv/viva.jpg" group-title="P2MAIS 05/09/2022",Viva HD+
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/10.ts
-#EXTINF:-1 tvg-id="24h Adulto" tvg-name="xxx Hentai" tvg-logo="https://logos.servidor.tv/c2fc2f64438b1eb36b7e244bdb7bd535.jpg" group-title="P2MAIS 05/09/2022",xxx Hentai
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="xxx Hentai" tvg-logo="https://logos.servidor.tv/c2fc2f64438b1eb36b7e244bdb7bd535.jpg" group-title="P2MAIS 05/09/2022",xxx Hentai
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/32599.ts
-#EXTINF:-1 tvg-id="24h Adulto" tvg-name="xxx Jasmin TV HD" tvg-logo="https://logos.servidor.tv/jasmin.png" group-title="P2MAIS 05/09/2022",xxx Jasmin TV HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="xxx Jasmin TV HD" tvg-logo="https://logos.servidor.tv/jasmin.png" group-title="P2MAIS 05/09/2022",xxx Jasmin TV HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/63329.ts
-#EXTINF:-1 tvg-id="24h Adulto" tvg-name="xxx Mia Khalifa" tvg-logo="https://logos.servidor.tv/b6f29ba075ec1d26b95310e15394fb3a.jpg" group-title="P2MAIS 05/09/2022",xxx Mia Khalifa
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="xxx Mia Khalifa" tvg-logo="https://logos.servidor.tv/b6f29ba075ec1d26b95310e15394fb3a.jpg" group-title="P2MAIS 05/09/2022",xxx Mia Khalifa
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/32620.ts
-#EXTINF:-1 tvg-id="24h Adulto" tvg-name="xxx Mia Linz" tvg-logo="https://logos.servidor.tv/61f7c85e7db94c5d3d6c9e28cc94b2c3.jpg" group-title="P2MAIS 05/09/2022",xxx Mia Linz
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="xxx Mia Linz" tvg-logo="https://logos.servidor.tv/61f7c85e7db94c5d3d6c9e28cc94b2c3.jpg" group-title="P2MAIS 05/09/2022",xxx Mia Linz
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/32619.ts
 #EXTINF:-1 tvg-id="Playboy.br" tvg-name="xxx Playboy TV HD" tvg-logo="https://logos.servidor.tv/playboytv.png" group-title="P2MAIS 05/09/2022",xxx Playboy TV HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/57.ts
-#EXTINF:-1 tvg-id="SEXBR" tvg-name="xxx Sex Privê HD" tvg-logo="https://logos.servidor.tv/sexprive.jpg" group-title="P2MAIS 05/09/2022",xxx Sex Privê HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="xxx Sex Privê HD" tvg-logo="https://logos.servidor.tv/sexprive.jpg" group-title="P2MAIS 05/09/2022",xxx Sex Privê HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/257.ts
 #EXTINF:-1 tvg-id="SextremeBrazil.br" tvg-name="xxx Sextreme HD" tvg-logo="https://logos.servidor.tv/sextreme.jpg" group-title="P2MAIS 05/09/2022",xxx Sextreme HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/54.ts
@@ -2253,7 +2253,7 @@ http://canaishd.servidor.tv:8080/live/caciano2/caciano2/99991.ts
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/99990.ts
 #EXTINF:-1 tvg-id="ElevenSports6(src02).pt" tvg-name="|PT| Eleven Sports 6 HD" tvg-logo="https://logos.servidor.tv/portugal.png" group-title="P2MAIS 05/09/2022",|PT| Eleven Sports 6 HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/99989.ts
-#EXTINF:-1 tvg-id="EXTRSPO" tvg-name="|PT| Extreme Sport HD" tvg-logo="https://logos.servidor.tv/portugal.png" group-title="P2MAIS 05/09/2022",|PT| Extreme Sport HD
+#EXTINF:-1 tvg-id="(Dummy Programming)" tvg-name="|PT| Extreme Sport HD" tvg-logo="https://logos.servidor.tv/portugal.png" group-title="P2MAIS 05/09/2022",|PT| Extreme Sport HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/99985.ts
 #EXTINF:-1 tvg-id="SportTVplus(src01).pt" tvg-name="|PT| Sport TV +  HD" tvg-logo="noimg.png" group-title="P2MAIS 05/09/2022",|PT| Sport TV +  HD
 http://canaishd.servidor.tv:8080/live/caciano2/caciano2/100003.ts

@@ -43,34 +43,7 @@ http://asbx.xyz:80/live/dorinha/123456/62676.ts
 http://asbx.xyz:80/live/dorinha/123456/62677.ts
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" group-title="ASUS TV 23/10/2024",Band Sports HD
 http://asbx.xyz:80/live/dorinha/123456/62678.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 HD" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="ASUS TV 23/10/2024",BBB 22 HD
-http://asbx.xyz:80/live/dorinha/123456/71942.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 HD 2" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="ASUS TV 23/10/2024",BBB 22 HD 2
-http://asbx.xyz:80/live/dorinha/123456/72007.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 01" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 01
-http://asbx.xyz:80/live/dorinha/123456/72009.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 02" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 02
-http://asbx.xyz:80/live/dorinha/123456/72010.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 03" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 03
-http://asbx.xyz:80/live/dorinha/123456/72011.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 04" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 04
-http://asbx.xyz:80/live/dorinha/123456/72012.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 05" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 05
-http://asbx.xyz:80/live/dorinha/123456/72013.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 06" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 06
-http://asbx.xyz:80/live/dorinha/123456/72014.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 07" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 07
-http://asbx.xyz:80/live/dorinha/123456/72015.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 08" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 08
-http://asbx.xyz:80/live/dorinha/123456/72016.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 09" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 09
-http://asbx.xyz:80/live/dorinha/123456/72017.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 10" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 10
-http://asbx.xyz:80/live/dorinha/123456/72018.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Câmera 11" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB Câmera 11
-http://asbx.xyz:80/live/dorinha/123456/72019.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB MOSAICO HD" tvg-logo="http://asbx.xyz:80/images/3f5fa751040ca60e69ed3cfb279fdaec.jpg" group-title="ASUS TV 23/10/2024",BBB MOSAICO HD
-http://asbx.xyz:80/live/dorinha/123456/72008.ts
+
 #EXTINF:-1 tvg-id="BBCWorldNews.br" tvg-name="BBC World News" tvg-logo="https://tvmagazine.com.br/imagens/icones/64/bbcworld.png" group-title="ASUS TV 23/10/2024",BBC World News
 http://asbx.xyz:80/live/dorinha/123456/62679.ts
 #EXTINF:-1 tvg-id="BIS.br" tvg-name="BIS" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bis.png" group-title="ASUS TV 23/10/2024",BIS
@@ -1019,30 +992,7 @@ http://hubby.fun:80/rebeca/rebeca123/19002
 http://hubby.fun:80/rebeca/rebeca123/19005
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports SD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bandsports.png" group-title="NARUTO TV 07/04/2023",Band Sports SD
 http://hubby.fun:80/rebeca/rebeca123/19004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 01" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 01
-http://hubby.fun:80/rebeca/rebeca123/11000
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 02" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 02
-http://hubby.fun:80/rebeca/rebeca123/11001
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 03" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 03
-http://hubby.fun:80/rebeca/rebeca123/11002
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 04" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 04
-http://hubby.fun:80/rebeca/rebeca123/11003
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 05" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 05
-http://hubby.fun:80/rebeca/rebeca123/11004
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 06" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 06
-http://hubby.fun:80/rebeca/rebeca123/11005
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 07" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 07
-http://hubby.fun:80/rebeca/rebeca123/11006
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 08" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 08
-http://hubby.fun:80/rebeca/rebeca123/11007
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 09" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 09
-http://hubby.fun:80/rebeca/rebeca123/11008
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 10" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 10
-http://hubby.fun:80/rebeca/rebeca123/11009
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 11" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 11
-http://hubby.fun:80/rebeca/rebeca123/11010
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 12" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="NARUTO TV 07/04/2023",BBB 12
-http://hubby.fun:80/rebeca/rebeca123/11011
+
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="NARUTO TV 07/04/2023",BIS FHD
 http://hubby.fun:80/rebeca/rebeca123/12007
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="NARUTO TV 07/04/2023",BIS FHD
@@ -2689,40 +2639,7 @@ http://c2n.one:80/analu123/analu321/678033
 http://c2n.one:80/analu123/analu321/678032
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAREZÃO PLAY 03 HD" tvg-logo="https://amazoniasemfronteiras.com/wp-content/uploads/2020/01/1-Bola-de-Futebol.png" group-title="PLAY XC 31/12/2022",BAREZÃO PLAY 03 HD
 http://c2n.one:80/analu123/analu321/678031
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 1 HD¹" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 1 HD¹
-http://c2n.one:80/analu123/analu321/416524
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 2 HD¹" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 2 HD¹
-http://c2n.one:80/analu123/analu321/416529
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 01 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 01 HD
-http://c2n.one:80/analu123/analu321/420106
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 02 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 02 HD
-http://c2n.one:80/analu123/analu321/420103
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 03 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 03 HD
-http://c2n.one:80/analu123/analu321/420100
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 04 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 04 HD
-http://c2n.one:80/analu123/analu321/420097
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 05 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 05 HD
-http://c2n.one:80/analu123/analu321/420094
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 06 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 06 HD
-http://c2n.one:80/analu123/analu321/420091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 07 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 07 HD
-http://c2n.one:80/analu123/analu321/420088
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 08 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 08 HD
-http://c2n.one:80/analu123/analu321/420085
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 CAMERA 09 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 CAMERA 09 HD
-http://c2n.one:80/analu123/analu321/420082
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 22 MOSAICO HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 22 MOSAICO HD
-http://c2n.one:80/analu123/analu321/420073
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 2³" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB 2³
-http://c2n.one:80/analu123/analu321/416531
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 3 HD" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB CAM 3 HD
-http://c2n.one:80/analu123/analu321/417117
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 7 HD¹" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB CAM 7 HD¹
-http://c2n.one:80/analu123/analu321/416535
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB CAM 8 HD¹" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB CAM 8 HD¹
-http://c2n.one:80/analu123/analu321/416536
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB MOSAICO HD¹" tvg-logo="http://c2n.one:80/images/0f466792c71a751bdf79ee7369080acb.png" group-title="PLAY XC 31/12/2022",BBB MOSAICO HD¹
-http://c2n.one:80/analu123/analu321/416517
+
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://c2n.one:80/images/2c7047fa7e457567d7bce914457acfae.png" group-title="PLAY XC 31/12/2022",BIS HD
 http://c2n.one:80/analu123/analu321/208874
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS SD" tvg-logo="http://c2n.one:80/images/2c7047fa7e457567d7bce914457acfae.png" group-title="PLAY XC 31/12/2022",BIS SD
@@ -4089,30 +4006,7 @@ http://hubby.fun:80/live/francisca/francisca123/19003.ts
 http://hubby.fun:80/live/francisca/francisca123/19004.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Band Sports SD [Alter]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bandsports.png" group-title="TV NARUTO 04/09/2023",Band Sports SD [Alter]
 http://hubby.fun:80/live/francisca/francisca123/19005.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 01" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 01
-http://hubby.fun:80/live/francisca/francisca123/11000.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 02" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 02
-http://hubby.fun:80/live/francisca/francisca123/11001.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 03" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 03
-http://hubby.fun:80/live/francisca/francisca123/11002.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 04" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 04
-http://hubby.fun:80/live/francisca/francisca123/11003.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 05" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 05
-http://hubby.fun:80/live/francisca/francisca123/11004.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 06" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 06
-http://hubby.fun:80/live/francisca/francisca123/11005.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 07" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 07
-http://hubby.fun:80/live/francisca/francisca123/11006.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 08" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 08
-http://hubby.fun:80/live/francisca/francisca123/11007.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 09" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 09
-http://hubby.fun:80/live/francisca/francisca123/11008.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 10" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 10
-http://hubby.fun:80/live/francisca/francisca123/11009.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 11" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 11
-http://hubby.fun:80/live/francisca/francisca123/11010.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 12" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bbb.png" group-title="TV NARUTO 04/09/2023",BBB 12
-http://hubby.fun:80/live/francisca/francisca123/11011.ts
+
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="TV NARUTO 04/09/2023",BIS FHD
 http://hubby.fun:80/live/francisca/francisca123/12006.ts
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD [Alter]" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="TV NARUTO 04/09/2023",BIS FHD [Alter]

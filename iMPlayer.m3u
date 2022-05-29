@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6vmk9y9mw"
+#PLAYLISTV: pltv-logo="http://vignette1.wikia.nocookie.net/thebatmanfanon/images/2/2f/Batman_rect-500x500.jpg" pltv-name="☆Josiel Jefferson☆" pltv-description="BRASILLEIRINHAS" pltv-cover="https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg" pltv-author="☆Josiel Jefferson☆" pltv-site="XXX XXX" pltv-email="jsljff@gmail.com" pltv-email="josieljeffersondplay@yandex.com" pltv-email="josieljefferson@yandex.com"
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="ASUS TV 23/10/2024",A&E
 http://asbx.xyz:80/live/dorinha/123456/62650.ts
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="ASUS TV 23/10/2024",A&E FHD
